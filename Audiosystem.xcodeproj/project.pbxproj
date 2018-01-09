@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					A2007197200550ED001C2310 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = FU58Q87MHK;
 						ProvisioningStyle = Automatic;
 					};
 					A20071AB200550EE001C2310 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FU58Q87MHK;
 				INFOPLIST_FILE = Audiosystem/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.Audiosystem;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FU58Q87MHK;
 				INFOPLIST_FILE = Audiosystem/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.Audiosystem;
